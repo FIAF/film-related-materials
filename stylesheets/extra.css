@@ -1,0 +1,42 @@
+:root {
+  /* --md-primary-fg-color:        #333333; */
+
+
+  --md-primary-fg-color: #333333;
+
+  --md-accent-fg-color: #000000;
+
+
+
+}
+
+.md-header {
+  background-color: #EEEEEE;
+  color: #333333;
+}
+
+
+.md-header h1 {
+  color: purple;
+}
+
+
+
+
+.collapsible-content {
+  display: none;
+}
+
+.collapsible-btn {
+
+  border: none;
+  padding: 0px;
+  width: 200px;
+  text-align: left;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.collapsible-btn:focus {
+  outline: none;
+}
