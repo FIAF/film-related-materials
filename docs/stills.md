@@ -1,5 +1,5 @@
 
-A photographic or digital image used to document a film production or to promote a film and/or its agents.
+Photographic or digital images used to document a film production or to promote a film and/or its agents.
 
 | <span style="color:orange"><b>Fair</b></span>| <span style="color:gold"><b>Good</b></span>  | <span style="color:green"><b> Best practice</b></span>  |
 |:------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------------------|

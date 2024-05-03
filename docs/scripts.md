@@ -1,5 +1,5 @@
 
-The written content for a film, often including dialogue and scene directions.
+Written content for a film, often including dialogue and scene directions.
 
 | <span style="color:orange"><b>Fair</b></span>| <span style="color:gold"><b>Good</b></span>  | <span style="color:green"><b> Best practice</b></span>  |
 |:------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------------------|

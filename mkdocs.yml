@@ -16,7 +16,7 @@ theme:
     primary: custom
     accent: custom
   icon:
-    logo: material/filmstrip
+    logo: material/movie-open
 
 extra_css:
   - stylesheets/extra.css

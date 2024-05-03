@@ -1,5 +1,5 @@
 
-Usually two dimensional printed or digital item published, marketed and distributed with the sole motive of the promotion of a film. 3D items can be catalogued either as "PR-materials" (object type: "Merchendise") or as "Objects"  (object type: "Merchandise").
+Usually two dimensional printed or digital items published, marketed and distributed with the sole motive of the promotion of a film. 3D items can be catalogued either as "PR-materials" (object type: "Merchendise") or as "Objects"  (object type: "Merchandise").
 
 Use this category for items issued by production or distribution companies. Commercially manufactured items (toys etc.) should normally be catalogued as "Objects".
 
