@@ -1,7 +1,7 @@
 
 Three dimensional objects used in any stage of a films production or distribution. Also objects with relevant provenance or film historic value.
 
-| <span style="color:orange"><b>Fair</b></span>| <span style="color:gold"><b>Good</b></span>  | <span style="color:green"><b> Best practice</b></span>  |
+| <span style="color:Tomato"><b>Fair</b></span>| <span style="color:Orange"><b>Good</b></span>  | <span style="color:MediumSeaGreen"><b> Best practice</b></span>  |
 |:------------------------------------------------|:-------------------------------------------------|:-----------------------------------------------------------------------|
 | <tspan title="An identifier that is guaranteed to be unique among all identifiers used for specific objects or entities and for a specific purpose. A unique identifier could be a code or a sequence number.">Unique Identifier/Item no.</tspan>   | <tspan title="An identifier that is guaranteed to be unique among all identifiers used for specific objects or entities and for a specific purpose. A unique identifier could be a code or a sequence number.">Unique Identifier/Item no.</tspan>  | <tspan title="An identifier that is guaranteed to be unique among all identifiers used for specific objects or entities and for a specific purpose. A unique identifier could be a code or a sequence number.">Unique Identifier/Item no.</tspan> |
 | <tspan title="General category of an item.">Object name (e.g. "objects")</tspan> | <tspan title="General category of an item.">Object name (e.g. "objects")</tspan>  | <tspan title="General category of an item.">Object name (e.g. "objects")</tspan>   |
